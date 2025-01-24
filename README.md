@@ -4,4 +4,4 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hamidkamyab&theme=onedark&no-frame=false&no-bg=true&margin-w=8&margin-h=8)
+![](https://github-profile-trophy.vercel.app/?username=hamidkamyab&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8)
