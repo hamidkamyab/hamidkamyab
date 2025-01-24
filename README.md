@@ -47,4 +47,3 @@ When it comes to UI design, I am fully familiar with CSS frameworks like Tailwin
 <a href="https://hamidkamyab.ir" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" style="margin: 10px;" /></a>
 <a href="https://hamidkamyab.ir" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" style="margin: 10px;" /></a>
 <a href="https://hamidkamyab.ir" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="40" height="40" style="margin: 10px;" /></a>
-
