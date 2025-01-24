@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi there! I'm , a backend developer working with Go, JavaScript (NodeJS), and TypeScript. Although I'm not highly experienced yet, I'm passionate about advancing my skills. I have knowledge in Python, PHP and C#, and I'mxx currently exploring DevOps and Rust alongside backend development.<br><br>I look forward to contributing to the Github community, sharing my projects, and learning from fellow developers. Learning TypeScript and Go for backend development is on my roadmap. Thank you for taking the time to get to know me. 🙏
+Sure! Here’s the updated version with some fun emojis added:
+
+Hello! 👋 I am a full-stack developer who entered the world of programming in 2015 🚀. Currently, I work with Node.js and the Nest.js framework for backend development 🛠️, as well as Next.js and React for frontend development 💻.
+Although I don’t have extensive experience yet, I am passionate about continuously improving my skills 🌱. In the past, I have also worked with PHP, and I am currently employed as a frontend developer at a payment service provider company 💳.
+When it comes to UI design, I am fully familiar with CSS frameworks like TailwindCSS and Bootstrap 🎨. I also have experience working with Docker 🐳. My educational background includes a bachelor's degree in Software Engineering 🎓. 😊
 
 
 
