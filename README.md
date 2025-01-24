@@ -16,4 +16,4 @@ When it comes to UI design, I am fully familiar with CSS frameworks like Tailwin
 ## Tools And Technologies
 
 
-[![My Skills](https://skillicons.dev/icons?i=ubuntu,php,nodejs,nestjs,mysql,mongodb,pinia,jquery,react,vue,nextjs,html,css,js,bootstrap,tailwind,xd,docker,gitlab,github,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,php,nodejs,nestjs,mysql,mongodb,pinia,jquery,react,vue,nextjs,html,css,js,bootstrap,tailwind,xd,docker,gitlab,github,vscode&perline=7)](https://skillicons.dev)
