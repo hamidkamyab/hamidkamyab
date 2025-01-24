@@ -15,6 +15,9 @@ When it comes to UI design, I am fully familiar with CSS frameworks like Tailwin
 
 ## Tools And Technologies
 
+
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,php,nodejs,nestjs,mysql,mongodb,pinia,jquery,react,vue,nextjs,html,css,js,bootstrap,tailwind,xd,docker&perline=3)](https://skillicons.dev)
+
 <a href="https://hamidkamyab.ir" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin: 10px;" /></a>
 <a href="https://hamidkamyab.ir" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin: 10px;" /></a>
 <a href="https://hamidkamyab.ir" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 10px;" /></a>
