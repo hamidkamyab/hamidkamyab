@@ -23,7 +23,7 @@ When it comes to UI design, I am fully familiar with CSS frameworks like Tailwin
 <a href="https://hamidkamyab.ir" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /></a>
 <a href="https://hamidkamyab.ir" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg" width="40" height="40" /></a>
 <a href="https://hamidkamyab.ir" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /></a>
-<a href="https://hamidkamyab.ir" target="_blank"><i class="devicon-nextjs-original-wordmark"></i></a>
+<a href="https://hamidkamyab.ir" target="_blank"><i class="devicon-nextjs-original-wordmark" style="font-size:120px"></i></a>
 <a href="https://hamidkamyab.ir" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" width="40" height="40" /></a>
 <a href="https://hamidkamyab.ir" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" /></a>
 <a href="https://hamidkamyab.ir" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40" /></a>
